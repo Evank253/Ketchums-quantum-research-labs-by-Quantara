@@ -1,0 +1,5 @@
+# Update BUILD_INFO placeholder; will be updated with final SHA after commit
+Built by: Evan Ketchum
+Built on: 2026-06-11T09:44:00Z
+Branch: fix/restructure-layers
+Commit: (will be filled after commit)
