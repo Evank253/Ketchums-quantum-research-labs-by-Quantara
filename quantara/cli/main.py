@@ -1,6 +1,6 @@
 # Built by Evan Ketchum — 2026-06-11T09:44:00Z
  argparse.py
-quantara.engines.qed.qed_engine QEDEngine.py quantara.engines.qcd.qcd_engine import QCDEngine.py
+quantara.engines.qed.qed_engine QED.Engine.py quantara.engines.qcd.qcd_engine import QCD.Engine.py
 
    main():
     parser   argparse.ArgumentParser()
