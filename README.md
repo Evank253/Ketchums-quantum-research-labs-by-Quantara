@@ -1,5 +1,3 @@
-# Quantara — Modular multi-scale physics simulation kernel
-
 This repository contains the Quantara scaffolding: QED, cosmology, and HPC stubs for rapid prototyping.
 
 Quickstart:
