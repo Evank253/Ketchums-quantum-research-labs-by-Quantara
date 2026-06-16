@@ -9,4 +9,3 @@ Quickstart:
 
 Each physics engine is organized under quantara-physics-engine/ with a standard layout for core utilities, QED, QCD, electroweak, gravity, models, simulation helpers, symbolic utilities, engines, tests, and notebooks.
 
-Built by Evan Ketchum — 2026-06-11T09:44:00Z
