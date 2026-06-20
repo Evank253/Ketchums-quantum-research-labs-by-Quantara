@@ -1,5 +1,5 @@
 
-Quickstart:
+Ketchum's quantum physics labs 
 - Install dependencies: pip install numpy pytest
 - Run CLI examples:
   - python -m quantara.cli qed_rg
