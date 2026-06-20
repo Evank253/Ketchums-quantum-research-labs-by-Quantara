@@ -1,4 +1,3 @@
-This repository contains the Quantara scaffolding: QED, cosmology, and HPC stubs for rapid prototyping.
 
 Quickstart:
 - Install dependencies: pip install numpy pytest
