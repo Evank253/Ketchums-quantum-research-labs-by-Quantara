@@ -1,4 +1,5 @@
 # Built by Evan Ketchum — 2026-06-11T09:44:00Z
+
 import argparse
 from quantara.engines.qed.rg_flow import QEDRenormalizationGroup
 from quantara.engines.qed.lattice_qft import LatticeQFT
@@ -23,6 +24,9 @@ def main():
         print("w(a=0.5):", model.equation_of_state(0.5))
     else:
         print("Unknown engine")
+# Lightweight CLI shim left at original location to preserve scripts that call it.
+# Delegates to quantara.cli.main; this file is a MOVE wrapper and not a physics layer.
+from quantara.cli.main import main
 
 if __name__ == "__main__":
     main()
